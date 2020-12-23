@@ -1,0 +1,22 @@
+{
+  "name": "none-exercise",
+  "version": "1.0.0",
+  "description": "这是一个node-project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbfz/none-exercise.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kbfz/none-exercise/issues"
+  },
+  "homepage": "https://github.com/kbfz/none-exercise#readme"
+}
